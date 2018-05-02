@@ -1,7 +1,8 @@
-Killer Drupal 8 Workflow for Platform.sh
+Drupal8_Basis1
 ========================================
 
-This project is meant to be forked and used as an easy-to-get-going start state for an awesome dev workflow that includes:
+ist die Grundlage für alle Platform.sh-gehosteten Projekte.
+Diese Grundlage entsteht durch das Zusammenführen der platform.sh und der thinktandem-Quelle.
 
 1. Canonical upstream repo on [GitHub](http://github.com)
 2. Local development and tooling with [Lando](http://docs.devwithlando.io)
